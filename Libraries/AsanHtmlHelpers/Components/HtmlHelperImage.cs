@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace AsanHtmlHelpers
+namespace AsanHtmlHelpers.Components
 {
     public static class HtmlHelperImage
     {

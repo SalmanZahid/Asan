@@ -58,7 +58,9 @@
   <ItemGroup>
     <Compile Include="Components\HtmlHelperAsanActivePage.cs" />
     <Compile Include="Components\HtmlHelperAsanButton.cs" />
+    <Compile Include="Components\HtmlHelperAsanMenuItem.cs" />
     <Compile Include="Components\HtmlHelperImage.cs" />
+    <Compile Include="Components\HtmlHelperImageFor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
