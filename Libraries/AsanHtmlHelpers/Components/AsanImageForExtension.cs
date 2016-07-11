@@ -9,7 +9,7 @@ using System.Web.Routing;
 
 namespace AsanHtmlHelpers.Components
 {
-    public static class HtmlHelperImageFor
+    public static class AsanImageForExtension
     {
 
         /// <summary>

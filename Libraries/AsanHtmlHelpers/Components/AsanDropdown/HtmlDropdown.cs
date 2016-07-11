@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AsanHtmlHelpers.Components
 {
-    class HtmlHelperAsanActivePage
+    public static class HtmlDropdown
     {
     }
 }

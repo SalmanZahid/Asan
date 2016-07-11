@@ -7,7 +7,7 @@ using System.Web.Routing;
 
 namespace AsanHtmlHelpers.Components
 {
-    public static class HtmlHelperImage
+    public static class AsanImageExtension
     {
         #region 2 parameter overloads
         /// <summary>

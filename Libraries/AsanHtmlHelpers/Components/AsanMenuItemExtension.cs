@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace AsanHtmlHelpers.Components
 {
-    public static class HtmlHelperAsanMenuItem
+    public static class AsanMenuItemExtension
     {
 
         public static MvcHtmlString AsanMenu(this HtmlHelper html, string text, string controller)
