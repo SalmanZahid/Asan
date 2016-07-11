@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Components\AsanActivePageExtension.cs" />
     <Compile Include="Components\AsanButtonExtension.cs" />
+    <Compile Include="Components\AsanDropdownXML.cs" />
     <Compile Include="Components\AsanMenuItemExtension.cs" />
     <Compile Include="Components\AsanImageExtension.cs" />
     <Compile Include="Components\AsanImageForExtension.cs" />
